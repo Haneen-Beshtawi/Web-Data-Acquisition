@@ -1,0 +1,6 @@
+source_row,course_code,admission_grade,semester1_units_enrolled,semester1_units_approved,semester1_grade,semester2_units_approved,semester2_grade,outcome
+1,171,127.3,0,0,0.0,0,0.0,Dropout
+2,9254,142.5,6,6,14.0,6,13.66666667,Graduate
+3,9070,124.8,6,0,0.0,0,0.0,Dropout
+4,9773,119.6,6,6,13.42857143,5,12.4,Graduate
+5,8014,141.5,6,5,12.33333333,6,13.0,Graduate

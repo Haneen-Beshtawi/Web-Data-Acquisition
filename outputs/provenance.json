@@ -1,0 +1,29 @@
+{
+  "source": "Predict Students' Dropout and Academic Success",
+  "source_url": "https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success",
+  "doi": "10.24432/C5MC89",
+  "acquisition_method": "Documented UCI API workflow",
+  "api_documentation": "https://github.com/uci-ml-repo/ucimlrepo",
+  "api_endpoint": "https://archive.ics.uci.edu/api/dataset",
+  "query_parameters": {
+    "id": 697
+  },
+  "data_url_returned_by_api": "https://archive.ics.uci.edu/static/public/697/data.csv",
+  "collection_started_utc": "2026-10-23T23:09:10.622577+00:00",
+  "collection_finished_utc": "2026-10-23T23:09:17.617806+00:00",
+  "http_attempts": 2,
+  "expected_source_rows": 4424,
+  "source_last_updated": "Mon Feb 26 2024",
+  "api_version": "No explicit version in endpoint",
+  "account_required": false,
+  "api_key_required": false,
+  "license": "CC BY 4.0; credit dataset creators and describe modifications",
+  "rate_limit": "No numeric rate limit verified; only two sequential requests; cache reused",
+  "raw_sha256": {
+    "metadata.json": "c48a8f6303ccf2a5ade930fe6e85c53df209c2933f39910344c56a53a8641d5e",
+    "students_original.csv": "a1b1a6531bbb93a5c7fdf0093b47172776652a4ffb12342fb79655c85b74801b"
+  },
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "reproduction_limit": "Source and API can change; exact reproduction uses saved raw bytes and hashes.",
+  "observations_collected": 4424
+}

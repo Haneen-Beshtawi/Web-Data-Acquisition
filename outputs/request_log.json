@@ -1,0 +1,22 @@
+{
+  "requests": [
+    {
+      "url": "https://archive.ics.uci.edu/api/dataset?id=697",
+      "method": "GET",
+      "started_utc": "2026-10-23T23:09:10.622589+00:00",
+      "attempt": 1,
+      "status": 200,
+      "finished_utc": "2026-10-23T23:09:14.243566+00:00",
+      "bytes": 19188
+    },
+    {
+      "url": "https://archive.ics.uci.edu/static/public/697/data.csv",
+      "method": "GET",
+      "started_utc": "2026-10-23T23:09:14.243758+00:00",
+      "attempt": 1,
+      "status": 200,
+      "finished_utc": "2026-10-23T23:09:17.616143+00:00",
+      "bytes": 495642
+    }
+  ]
+}

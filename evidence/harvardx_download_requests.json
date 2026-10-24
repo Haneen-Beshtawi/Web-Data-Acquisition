@@ -1,0 +1,15 @@
+{
+  "started_utc": "2026-10-23T18:03:16.342667+00:00",
+  "finished_utc": "2026-10-23T18:03:19.382663+00:00",
+  "requests": [
+    {
+      "endpoint": "https://dataverse.harvard.edu/api/access/datafile/3624095",
+      "parameters": {},
+      "started_utc": "2026-10-23T18:03:16.342679+00:00",
+      "attempt": 1,
+      "status": 400,
+      "finished_utc": "2026-10-23T18:03:19.382615+00:00"
+    }
+  ],
+  "raw_saved": false
+}

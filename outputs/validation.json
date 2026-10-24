@@ -1,0 +1,23 @@
+{
+  "raw_rows": 4424,
+  "cleaned_rows": 4424,
+  "full_row_duplicates_flagged": 0,
+  "duplicate_policy": "No student ID is provided. Flag full-row matches; do not assume identical measures identify the same student.",
+  "missing_selected_fields": 0,
+  "invalid_selected_values": 0,
+  "steps": [
+    "Select academic fields; exclude demographic and financial fields from cleaned data",
+    "Standardize descriptive column names and strip outer whitespace",
+    "Parse integer counts/codes and floating-point grades",
+    "Validate grade ranges, allowed labels and approved/enrolled relationship",
+    "Check complete source-row duplicates; retain distinct source observations"
+  ],
+  "source_row_note": "Local row reference for this immutable snapshot; not an identity or proof of unique individuals.",
+  "schema": {
+    "course_code": "categorical integer code; not a magnitude",
+    "admission_grade": "float, 0-200",
+    "semester_grades": "float, 0-20",
+    "unit_counts": "nonnegative integers",
+    "outcome": "Dropout / Enrolled / Graduate"
+  }
+}

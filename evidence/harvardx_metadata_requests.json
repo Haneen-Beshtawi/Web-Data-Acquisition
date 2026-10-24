@@ -1,0 +1,18 @@
+{
+  "started_utc": "2026-10-23T18:03:03.103889+00:00",
+  "finished_utc": "2026-10-23T18:03:06.317233+00:00",
+  "requests": [
+    {
+      "endpoint": "https://dataverse.harvard.edu/api/datasets/:persistentId/",
+      "parameters": {
+        "persistentId": "doi:10.7910/DVN/26147"
+      },
+      "started_utc": "2026-10-23T18:03:03.103930+00:00",
+      "attempt": 1,
+      "status": 200,
+      "content_type": "application/json;charset=UTF-8",
+      "finished_utc": "2026-10-23T18:03:06.316835+00:00"
+    }
+  ],
+  "metadata_saved": true
+}
